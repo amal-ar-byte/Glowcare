@@ -1,0 +1,19 @@
+{
+  "name": "glowcare-skincare-assistant",
+  "version": "1.0.0",
+  "description": "GlowCare – Personal Skincare Assistant Web Application",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "start": "npm --prefix frontend start",
+    "build": "npm --prefix frontend run build",
+    "test": "npm --prefix frontend test"
+  },
+  "keywords": [
+    "skincare",
+    "react",
+    "glowcare"
+  ],
+  "author": "GlowCare Team",
+  "license": "MIT"
+}
